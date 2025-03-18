@@ -6,6 +6,7 @@ import moderwear_1 from "../assets/images/ModernWear_1.jpg";
 import moderwear_2 from "../assets/images/ModernWear_2.jpg";
 import moderwear_3 from "../assets/images/ModernWear_3.jpg";
 import moderwear_4 from "../assets/images/ModernWear_4.jpg";
+// import moderwear_5 from "../assets/images/ModernWear_5.jpg";
 import moderwear_6 from "../assets/images/ModernWear_6.jpg";
 
 export default function LandingPage() {
@@ -37,7 +38,7 @@ export default function LandingPage() {
           </div>
         </div>
       </div>
-      <h3 className="sub_title">"Modern"</h3>
+      <h3 className="sub_title">"Santhosh"</h3>
       <div className="getStarted">Get started {arrow}</div>
       <div className="images">
         <div>
