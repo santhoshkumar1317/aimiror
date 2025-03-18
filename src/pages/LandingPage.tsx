@@ -38,7 +38,7 @@ export default function LandingPage() {
           </div>
         </div>
       </div>
-      <h3 className="sub_title">"Santhosh"</h3>
+      <h3 className="sub_title">"Modern"</h3>
       <div className="getStarted">Get started {arrow}</div>
       <div className="images">
         <div>
